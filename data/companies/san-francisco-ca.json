@@ -1,0 +1,118 @@
+{
+  "metroArea": {
+    "slug": "san-francisco-ca",
+    "city": "San Francisco",
+    "state": "CA",
+    "stateAbbr": "CA",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "acker-roofing",
+      "name": "Acker Roofing Inc.",
+      "slug": "acker-roofing",
+      "description": "Acker Roofing was established in 2014 by owner Dusten Acker. BBB A+ accredited since 2015 with a 4.8-star Google rating from 142 reviews and 4.7 stars on Yelp from 85 reviews. They are certified Master Shinglers for CertainTeed and certified Master Elite for GAF, licensed and insured (CSLB #993338).",
+      "phone": "(925) 891-3331",
+      "email": "info@ackerroofing.com",
+      "website": "https://ackerroofing.com",
+      "address": "975 Detroit Ave, Ste C",
+      "city": "Concord",
+      "state": "CA",
+      "zipCode": "94518",
+      "googleRating": 4.8,
+      "reviewCount": 142,
+      "yelpRating": 4.7,
+      "yelpReviewCount": 85,
+      "services": ["residential", "commercial", "repairs", "maintenance", "inspections"],
+      "materials": ["architectural-shingles", "GAF", "CertainTeed"],
+      "certifications": ["BBB-A+", "GAF-Master-Elite", "CertainTeed-Master-Shinglers", "CSLB-993338"],
+      "yearsInBusiness": 11,
+      "foundedYear": 2014,
+      "familyOwned": true,
+      "ownership": {
+        "owner": "Dusten Acker"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "san-francisco-ca",
+      "sources": [
+        "https://ackerroofing.com/",
+        "https://www.bbb.org/us/ca/concord/profile/roofing-contractors/acker-roofing-inc-1116-545205"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "tom-lee-roofing",
+      "name": "Tom Lee Roofing, Inc.",
+      "slug": "tom-lee-roofing",
+      "description": "Tom Lee Roofing has been San Francisco's premier roofing expert since 1990 with 33 years of experience. BBB A+ accredited with a 4.8-star Google rating and 4.6 stars on Yelp from 115 reviews. They are the exclusive designated roofer for Stonestown Galleria Mall and serve residential, commercial, and specialized buildings.",
+      "phone": "(415) 333-5373",
+      "email": "tomleeroofing@yahoo.com",
+      "website": "https://tomleeroofing.com",
+      "address": "243 Onondaga Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94112",
+      "googleRating": 4.8,
+      "reviewCount": 25,
+      "yelpRating": 4.6,
+      "yelpReviewCount": 115,
+      "services": ["residential", "commercial", "repairs", "hospitals", "churches", "government"],
+      "materials": ["architectural-shingles", "tile", "flat-roofing"],
+      "certifications": ["BBB-A+"],
+      "yearsInBusiness": 35,
+      "foundedYear": 1990,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "san-francisco-ca",
+      "sources": [
+        "https://tomleeroofing.com/",
+        "https://www.bbb.org/us/ca/san-francisco/profile/roofing-contractors/tom-lee-roofing-inc-1116-36221"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "lawson-roofing",
+      "name": "The Lawson Roofing Co., Inc.",
+      "slug": "lawson-roofing",
+      "description": "Following the devastating 1906 San Francisco earthquake, Frank Lawson founded Lawson Roofing which has operated as a family-owned business since 1907. With 150 employees and over 117 years of experience, they are one of the major roofing and waterproofing companies in the Bay Area. Licensed C-39 California #339053.",
+      "phone": "(415) 285-1661",
+      "email": "lrc@lawsonroofing.com",
+      "website": "https://www.lawsonroofing.com",
+      "address": "1495 Tennessee St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94107",
+      "googleRating": 4.6,
+      "reviewCount": 21,
+      "services": ["residential", "commercial", "waterproofing", "maintenance"],
+      "materials": ["architectural-shingles", "tile", "flat-roofing", "commercial-systems"],
+      "certifications": ["CA-License-339053"],
+      "yearsInBusiness": 117,
+      "foundedYear": 1907,
+      "familyOwned": true,
+      "ownership": {
+        "principal": "Frank E. Lawson"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "san-francisco-ca",
+      "sources": [
+        "https://www.lawsonroofing.com/",
+        "https://www.bbb.org/us/ca/san-francisco/profile/roofing-contractors/lawson-roofing-company-1116-41646"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

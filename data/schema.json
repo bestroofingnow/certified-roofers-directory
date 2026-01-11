@@ -1,0 +1,236 @@
+{
+  "companySchema": {
+    "description": "Schema for roofing company listings - compatible with Directorist WordPress plugin",
+    "fields": {
+      "required": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier (slug format)",
+          "example": "best-roofing-now"
+        },
+        "name": {
+          "type": "string",
+          "description": "Full business name",
+          "example": "Best Roofing Now LLC"
+        },
+        "slug": {
+          "type": "string",
+          "description": "URL-friendly version of name",
+          "example": "best-roofing-now"
+        },
+        "description": {
+          "type": "string",
+          "description": "Business description (200-500 characters recommended)",
+          "example": "Family-owned roofing company serving Charlotte..."
+        },
+        "phone": {
+          "type": "string",
+          "description": "Primary contact phone",
+          "format": "(XXX) XXX-XXXX",
+          "example": "(704) 605-6047"
+        },
+        "city": {
+          "type": "string",
+          "description": "City name",
+          "example": "Charlotte"
+        },
+        "state": {
+          "type": "string",
+          "description": "State abbreviation",
+          "example": "NC"
+        },
+        "googleRating": {
+          "type": "number",
+          "description": "Google Business rating (must be >= 4.5)",
+          "minimum": 4.5,
+          "maximum": 5.0,
+          "example": 5.0
+        },
+        "reviewCount": {
+          "type": "integer",
+          "description": "Total Google reviews",
+          "example": 127
+        },
+        "services": {
+          "type": "array",
+          "description": "List of services offered",
+          "items": ["residential", "commercial", "repairs", "inspections", "emergency", "gutters", "siding", "storm-damage", "insurance-claims"],
+          "example": ["residential", "commercial", "repairs"]
+        }
+      },
+      "optional": {
+        "email": {
+          "type": "string",
+          "description": "Contact email",
+          "example": "info@bestroofingnow.com"
+        },
+        "website": {
+          "type": "string",
+          "description": "Company website URL",
+          "example": "https://www.bestroofingnow.com"
+        },
+        "address": {
+          "type": "string",
+          "description": "Street address",
+          "example": "10130 Mallard Creek Rd, Suite 300"
+        },
+        "zipCode": {
+          "type": "string",
+          "description": "ZIP code",
+          "example": "28262"
+        },
+        "googlePlaceId": {
+          "type": "string",
+          "description": "Google Maps Place ID for verification",
+          "example": "ChIJ..."
+        },
+        "materials": {
+          "type": "array",
+          "description": "Roofing materials offered",
+          "items": ["architectural-shingles", "metal", "TPO", "EPDM", "slate", "tile", "cedar-shake", "flat-roofing"],
+          "example": ["architectural-shingles", "metal", "slate"]
+        },
+        "certifications": {
+          "type": "array",
+          "description": "Professional certifications",
+          "items": ["GAF-Master-Elite", "Owens-Corning-Platinum", "CertainTeed-Master", "BBB-A+", "HAAG-Certified"],
+          "example": ["GAF-Master-Elite", "BBB-A+"]
+        },
+        "yearsInBusiness": {
+          "type": "integer",
+          "description": "Years company has been operating",
+          "example": 15
+        },
+        "veteranOwned": {
+          "type": "boolean",
+          "description": "Is company veteran-owned",
+          "example": true
+        },
+        "familyOwned": {
+          "type": "boolean",
+          "description": "Is company family-owned",
+          "example": true
+        },
+        "logoUrl": {
+          "type": "string",
+          "description": "URL to company logo image",
+          "example": "https://example.com/logo.png"
+        },
+        "coverImageUrl": {
+          "type": "string",
+          "description": "URL to cover/hero image",
+          "example": "https://example.com/cover.jpg"
+        },
+        "socialMedia": {
+          "type": "object",
+          "properties": {
+            "facebook": { "type": "string" },
+            "instagram": { "type": "string" },
+            "twitter": { "type": "string" },
+            "linkedin": { "type": "string" },
+            "youtube": { "type": "string" }
+          }
+        },
+        "serviceAreas": {
+          "type": "array",
+          "description": "List of cities/areas served",
+          "example": ["Charlotte", "Huntersville", "Matthews", "Concord"]
+        },
+        "businessHours": {
+          "type": "object",
+          "description": "Operating hours",
+          "example": {
+            "monday": "8:00 AM - 5:00 PM",
+            "tuesday": "8:00 AM - 5:00 PM",
+            "saturday": "By Appointment"
+          }
+        },
+        "licenses": {
+          "type": "array",
+          "description": "License numbers",
+          "example": ["NC-GC-12345", "SC-RB-67890"]
+        }
+      },
+      "metadata": {
+        "isFeatured": {
+          "type": "boolean",
+          "description": "Featured listing status",
+          "default": false
+        },
+        "isVerified": {
+          "type": "boolean",
+          "description": "Verified by admin",
+          "default": false
+        },
+        "listingTier": {
+          "type": "string",
+          "enum": ["basic", "premium", "featured"],
+          "default": "basic"
+        },
+        "notOnGoogleFirstPage": {
+          "type": "boolean",
+          "description": "Verified not on Google first page",
+          "default": true
+        },
+        "metroArea": {
+          "type": "string",
+          "description": "Metro area slug",
+          "example": "charlotte-nc"
+        },
+        "createdAt": {
+          "type": "datetime"
+        },
+        "updatedAt": {
+          "type": "datetime"
+        },
+        "lastRatingCheck": {
+          "type": "datetime",
+          "description": "Last time Google rating was verified"
+        }
+      }
+    }
+  },
+  "directoristMapping": {
+    "description": "Field mapping to Directorist plugin custom fields",
+    "postFields": {
+      "post_title": "name",
+      "post_content": "description",
+      "post_name": "slug",
+      "post_status": "publish"
+    },
+    "customFields": {
+      "_phone": "phone",
+      "_email": "email",
+      "_website": "website",
+      "_address": "address",
+      "_city": "city",
+      "_state": "state",
+      "_zip": "zipCode",
+      "_google_rating": "googleRating",
+      "_review_count": "reviewCount",
+      "_years_in_business": "yearsInBusiness",
+      "_veteran_owned": "veteranOwned",
+      "_family_owned": "familyOwned",
+      "_logo": "logoUrl"
+    },
+    "taxonomies": {
+      "at_biz_dir-category": "services",
+      "at_biz_dir-tags": "materials",
+      "at_biz_dir-location": "metroArea"
+    }
+  },
+  "validationRules": {
+    "googleRating": {
+      "minimum": 4.5,
+      "errorMessage": "Company must have at least 4.5 star Google rating"
+    },
+    "notOnGoogleFirstPage": {
+      "required": true,
+      "errorMessage": "Company cannot be on the first page of Google search results for 'roofers [city]'"
+    },
+    "phone": {
+      "pattern": "^\\(\\d{3}\\) \\d{3}-\\d{4}$",
+      "errorMessage": "Phone must be in format (XXX) XXX-XXXX"
+    }
+  }
+}

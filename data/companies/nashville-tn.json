@@ -1,0 +1,113 @@
+{
+  "metroArea": {
+    "slug": "nashville-tn",
+    "city": "Nashville",
+    "state": "TN",
+    "stateAbbr": "TN",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "quality-rrc",
+      "name": "Quality RRC",
+      "slug": "quality-rrc",
+      "description": "Quality RRC is a local family-owned and operated roofing company serving the Nashville area since 2007. BBB A+ rated with zero negative reviews since 2009 and a 4.9-star rating with 200+ Google reviews. Their roofing contractors have 100+ years of total combined experience in residential and commercial roofing. Carries $2,000,000 in liability insurance.",
+      "phone": "(615) 604-5165",
+      "website": "https://qualityrrc.com",
+      "address": "8702 Stewarts Ferry Pike, #103",
+      "city": "Mt Juliet",
+      "state": "TN",
+      "zipCode": "37122",
+      "googleRating": 4.9,
+      "reviewCount": 200,
+      "services": ["residential", "commercial", "repairs", "inspections", "maintenance", "gutters", "siding"],
+      "materials": ["architectural-shingles"],
+      "certifications": ["BBB-A+"],
+      "yearsInBusiness": 18,
+      "foundedYear": 2007,
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "nashville-tn",
+      "sources": [
+        "https://qualityrrc.com/",
+        "https://qualityrrc.com/contact-us/"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "ll-contractors",
+      "name": "L&L Contractors",
+      "slug": "ll-contractors",
+      "description": "L&L Contractors is a local family-owned Nashville roofing company founded in 2006 by Murfreesboro native Donald Lester. BBB A+ accredited since 2009 and 2023 Winner of the Main Street Murfreesboro Awards. They are an Elite Preferred James Hardie contractor with a showroom in historic downtown Murfreesboro.",
+      "phone": "(615) 617-3189",
+      "website": "https://landlcontractors.com",
+      "address": "23 S Public Square",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "zipCode": "37130",
+      "googleRating": 4.8,
+      "reviewCount": 14,
+      "services": ["residential", "commercial", "repairs", "siding", "decks", "remodeling", "metal"],
+      "materials": ["architectural-shingles", "metal", "James-Hardie-siding"],
+      "certifications": ["BBB-A+", "James-Hardie-Elite-Preferred"],
+      "yearsInBusiness": 19,
+      "foundedYear": 2006,
+      "familyOwned": true,
+      "ownership": {
+        "founder": "Donald Lester"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "nashville-tn",
+      "sources": [
+        "https://landlcontractors.com/",
+        "https://landlcontractors.com/about-us/"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "bill-ragan-roofing",
+      "name": "Bill Ragan Roofing Company",
+      "slug": "bill-ragan-roofing",
+      "description": "Bill Ragan Roofing Company has been locally-owned and operated in Nashville since 1990 with over 35 years in the industry. BBB A+ rated with a 4.9-star average Google rating from over 200 reviews. Led by President William H. 'Bill' Ragan, they specialize in residential roofing, storm damage repair, and diagnosing difficult roof problems.",
+      "phone": "(615) 242-0333",
+      "email": "bill@billraganroofing.com",
+      "website": "https://www.billraganroofing.com",
+      "address": "2969 Armory Dr, Ste 300",
+      "city": "Nashville",
+      "state": "TN",
+      "zipCode": "37204",
+      "googleRating": 4.9,
+      "reviewCount": 200,
+      "services": ["residential", "repairs", "commercial", "storm-damage", "skylights", "inspections"],
+      "materials": ["architectural-shingles"],
+      "certifications": ["BBB-A+"],
+      "yearsInBusiness": 35,
+      "foundedYear": 1990,
+      "familyOwned": true,
+      "ownership": {
+        "president": "William H. 'Bill' Ragan"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "nashville-tn",
+      "sources": [
+        "https://www.billraganroofing.com/",
+        "https://www.bbb.org/us/tn/nashville/profile/roofing-contractors/bill-ragan-roofing-company-0573-21101370"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "metroArea": {
+    "slug": "houston-tx",
+    "city": "Houston",
+    "state": "TX",
+    "stateAbbr": "TX",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "jcc-roofing-company",
+      "name": "JC&C Roofing Company",
+      "slug": "jcc-roofing-company",
+      "description": "JC&C Roofing Company is Houston's trusted family-owned roofing experts since 2013. With a perfect BBB A+ rating and zero complaints, they have earned trust from 517+ verified homeowners. Owner Christian Hernandez is known for his friendly demeanor, responsiveness, and commitment to quality. They offer 50-year warranty coverage on materials and 5 or 10 year workmanship warranties.",
+      "phone": "(281) 498-7663",
+      "email": null,
+      "website": "https://www.myroofimprovement.com",
+      "address": "1220 Blalock Rd, Ste 145",
+      "city": "Houston",
+      "state": "TX",
+      "zipCode": "77055",
+      "googleRating": 4.8,
+      "reviewCount": 385,
+      "services": [
+        "residential",
+        "commercial",
+        "repairs",
+        "inspections"
+      ],
+      "materials": [
+        "architectural-shingles"
+      ],
+      "certifications": [
+        "BBB-A+"
+      ],
+      "yearsInBusiness": 11,
+      "foundedYear": 2013,
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "houston-tx",
+      "sources": [
+        "https://www.myroofimprovement.com/",
+        "https://www.bbb.org/us/tx/houston/profile/roofing-contractors/jcc-roofing-company-0915-90035040",
+        "https://birdeye.com/jcc-roofing-company-149012297914024"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "beck-roofing-restoration",
+      "name": "Beck Roofing & Restoration",
+      "slug": "beck-roofing-restoration",
+      "description": "Beck Roofing & Restoration is a local family owned and operated roofing company with over twenty years of experience. CertainTeed ShingleMaster Certified and BBB Accredited, they offer residential and commercial roofing including asphalt shingles, metal, tile, slate, and flat roofing options. They provide 5-year workmanship warranties and limited lifetime warranties on select products.",
+      "phone": "(281) 762-0856",
+      "email": null,
+      "website": "https://beckroofingandrestoration.com",
+      "address": "1646 Blaisdale Road, Suite 2200",
+      "city": "Richmond",
+      "state": "TX",
+      "zipCode": "77406",
+      "googleRating": 4.8,
+      "reviewCount": 95,
+      "services": [
+        "residential",
+        "commercial",
+        "repairs",
+        "storm-damage",
+        "siding",
+        "flat-roofing"
+      ],
+      "materials": [
+        "architectural-shingles",
+        "metal",
+        "tile",
+        "slate",
+        "TPO",
+        "PVC",
+        "flat-roofing"
+      ],
+      "certifications": [
+        "CertainTeed-ShingleMaster",
+        "BBB-Accredited"
+      ],
+      "yearsInBusiness": 20,
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "houston-tx",
+      "sources": [
+        "https://beckroofingandrestoration.com/"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "12-stones-roofing",
+      "name": "12 Stones Roofing & Construction",
+      "slug": "12-stones-roofing",
+      "description": "12 Stones Roofing & Construction is a Service-Disabled Veteran-Owned firm owned by Jason Roberts. They maintain an A+ BBB rating and operate as a family-run business that treats customers like neighbors. Based in Pasadena, TX, they serve the greater Houston area with quality residential roofing services.",
+      "phone": "(832) 815-9463",
+      "email": null,
+      "website": "https://12stonesroofing.com",
+      "address": "6933 Olson Ln",
+      "city": "Pasadena",
+      "state": "TX",
+      "zipCode": "77505",
+      "googleRating": 4.9,
+      "reviewCount": 75,
+      "services": [
+        "residential",
+        "repairs",
+        "inspections",
+        "storm-damage"
+      ],
+      "materials": [
+        "architectural-shingles"
+      ],
+      "certifications": [
+        "BBB-A+",
+        "Service-Disabled-Veteran-Owned"
+      ],
+      "veteranOwned": true,
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "houston-tx",
+      "sources": [
+        "https://12stonesroofing.com/",
+        "https://12stonesroofing.com/blog/best-roofing-companies-houston-tx/"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

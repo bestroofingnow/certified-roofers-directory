@@ -1,0 +1,115 @@
+{
+  "metroArea": {
+    "slug": "phoenix-az",
+    "city": "Phoenix",
+    "state": "AZ",
+    "stateAbbr": "AZ",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "arizona-roof-rescue",
+      "name": "Arizona Roof Rescue",
+      "slug": "arizona-roof-rescue",
+      "description": "Arizona Roof Rescue is a full-service roofing company owned and operated by Alan Monzon, who was born and raised in Phoenix and joined the roofing industry at age 16. With nearly four decades of experience, they are BBB A+ accredited since 2010 and maintain a 4.9-star rating on Angi. They specialize in all roofing materials including metal, shingle, tile, foam, and rolled roofing systems.",
+      "phone": "(602) 242-2706",
+      "website": "https://www.arizonaroofrescue.com",
+      "address": "8646 W. Glendale Ave",
+      "city": "Glendale",
+      "state": "AZ",
+      "zipCode": "85305",
+      "googleRating": 4.5,
+      "reviewCount": 21,
+      "angiRating": 4.9,
+      "services": ["residential", "commercial", "repairs", "inspections", "metal", "flat-roofing"],
+      "materials": ["metal", "shingle", "tile", "foam", "rolled-roofing"],
+      "certifications": ["BBB-A+"],
+      "yearsInBusiness": 40,
+      "ownership": {
+        "owner": "Alan Monzon"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "phoenix-az",
+      "sources": [
+        "https://www.arizonaroofrescue.com/",
+        "https://www.bbb.org/us/az/glendale/profile/roofing-contractors/arizona-roof-rescue-1126-1000014374"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "canyon-state-roofing",
+      "name": "Canyon State Roofing & Consulting",
+      "slug": "canyon-state-roofing",
+      "description": "Canyon State Roofing & Consulting was founded by Jim McLain who started roofing in Arizona in 1983. In business since 1996, they are one of the few Tile Roofing Institute certified roofing companies in Arizona and are certified installers for Duro-Last with an average inspection score of 97/100. BBB A+ accredited since 2011 with 5-star ratings on Google and Yelp.",
+      "phone": "(602) 400-1635",
+      "website": "https://canyonstateroofs.com",
+      "address": "4809 E Thistle Landing Dr, #100",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "85044",
+      "googleRating": 5.0,
+      "reviewCount": 21,
+      "services": ["residential", "commercial", "repairs", "flat-roofing", "foam-roofing", "tile"],
+      "materials": ["tile", "foam", "Duro-Last", "flat-roofing"],
+      "certifications": ["BBB-A+", "Duro-Last-Certified", "Tile-Roofing-Institute-Certified", "AZ-ROC-276078"],
+      "yearsInBusiness": 30,
+      "foundedYear": 1996,
+      "ownership": {
+        "founder": "Jim McLain"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "phoenix-az",
+      "sources": [
+        "https://canyonstateroofs.com/",
+        "https://www.bbb.org/us/az/phoenix/profile/roofing-contractors/canyon-state-roofing-and-consulting-1126-87001080"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "allstate-roofing-az",
+      "name": "Allstate Roofing Inc.",
+      "slug": "allstate-roofing-az",
+      "description": "Allstate Roofing Inc. is a locally owned and family-operated roofing company established in 2001 by Chad and Kathy Thomas. With a 4.85-star average rating across 142 reviews on verified sites and an A rating with BBB, they specialize in tile, shingle, and foam roofing for residential properties throughout the Phoenix Valley.",
+      "phone": "(602) 484-7663",
+      "email": "info@allstateroofingaz.com",
+      "website": "https://www.allstateroofingaz.com",
+      "address": "2955 W Clarendon Ave",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "85017",
+      "googleRating": 4.8,
+      "reviewCount": 142,
+      "angiRating": 5.0,
+      "services": ["residential", "repairs", "emergency", "tile", "shingle", "foam-roofing"],
+      "materials": ["tile", "shingle", "foam"],
+      "certifications": [],
+      "yearsInBusiness": 25,
+      "foundedYear": 2001,
+      "familyOwned": true,
+      "ownership": {
+        "founders": "Chad and Kathy Thomas"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "phoenix-az",
+      "sources": [
+        "https://www.allstateroofingaz.com/",
+        "https://www.bbb.org/us/az/phoenix/profile/roofing-contractors/phoenix-roofers-by-allstate-roofing-contractors-1126-15005017"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

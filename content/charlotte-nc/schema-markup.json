@@ -1,0 +1,358 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://example.com/roofers/charlotte-nc/",
+      "name": "Top Rated Roofers in Charlotte, NC | Certified Roofing Directory",
+      "description": "Find BBB A+ accredited roofers in Charlotte, NC. Compare verified roofing contractors with 4.5+ star Google ratings. Free quotes from certified local experts.",
+      "url": "https://example.com/roofers/charlotte-nc/",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Certified Roofers Directory",
+        "url": "https://example.com/"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "Roofing Contractors in Charlotte, NC"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "name": "Top Rated Roofing Contractors in Charlotte, NC",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "https://example.com/roofers/charlotte-nc/best-roofing-now/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "https://example.com/roofers/charlotte-nc/rise-roofing-restoration/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@id": "https://example.com/roofers/charlotte-nc/weather-roofing/"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://example.com/roofers/charlotte-nc/best-roofing-now/",
+      "name": "Best Roofing Now LLC",
+      "alternateName": "Best Roofing Now",
+      "description": "Best Roofing Now LLC is a family-owned, veteran-operated roofing company serving Charlotte and surrounding areas. BBB A+ accredited with CertainTeed, GAF, and Owens Corning certifications.",
+      "url": "https://www.bestroofingnow.com",
+      "telephone": "+1-704-605-6047",
+      "email": "info@bestroofingnow.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "10130 Mallard Creek Rd, Ste 300",
+        "addressLocality": "Charlotte",
+        "addressRegion": "NC",
+        "postalCode": "28262",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.3098,
+        "longitude": -80.7497
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": "62",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "08:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "08:00",
+          "closes": "19:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Sunday",
+          "opens": "13:00",
+          "closes": "17:00"
+        }
+      ],
+      "priceRange": "$$",
+      "paymentAccepted": "Cash, Credit Card, Check",
+      "currenciesAccepted": "USD",
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Charlotte",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "North Carolina"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Huntersville"
+        },
+        {
+          "@type": "City",
+          "name": "Cornelius"
+        },
+        {
+          "@type": "City",
+          "name": "Mooresville"
+        },
+        {
+          "@type": "City",
+          "name": "Rock Hill"
+        },
+        {
+          "@type": "City",
+          "name": "Fort Mill"
+        },
+        {
+          "@type": "City",
+          "name": "Matthews"
+        },
+        {
+          "@type": "City",
+          "name": "Mint Hill"
+        },
+        {
+          "@type": "City",
+          "name": "Concord"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Roofing Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Residential Roof Replacement",
+              "description": "Complete roof replacement for homes using CertainTeed, GAF, or Owens Corning shingles"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Roof Repair",
+              "description": "Professional roof leak repair and shingle replacement"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Storm Damage Repair",
+              "description": "Emergency storm damage assessment and repair with insurance claim assistance"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Roof Inspection",
+              "description": "Professional roof inspection for home buyers and insurance purposes"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Commercial Roofing",
+              "description": "Commercial roof installation and repair services"
+            }
+          }
+        ]
+      },
+      "knowsAbout": [
+        "Roof Replacement",
+        "Roof Repair",
+        "Storm Damage Restoration",
+        "Gutter Installation",
+        "Siding Installation",
+        "Insurance Claims"
+      ],
+      "sameAs": [
+        "https://www.bbb.org/us/nc/charlotte/profile/roofing-contractors/best-roofing-now-0473-908763",
+        "https://www.angi.com/companylist/us/nc/charlotte/best-roofing-now-reviews-10094384.htm"
+      ],
+      "image": "https://www.bestroofingnow.com/logo.png",
+      "foundingDate": "2019",
+      "founder": [
+        {
+          "@type": "Person",
+          "name": "James Turner",
+          "jobTitle": "CEO"
+        },
+        {
+          "@type": "Person",
+          "name": "Fred Turner",
+          "jobTitle": "Co-Founder"
+        }
+      ],
+      "award": [
+        "BBB A+ Accreditation",
+        "Angi Super Service Award 2023",
+        "CertainTeed SELECT ShingleMaster",
+        "GAF Factory Certified",
+        "Owens Corning Preferred Contractor"
+      ],
+      "slogan": "Charlotte's Trusted Veteran-Owned Roofing Company"
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://example.com/roofers/charlotte-nc/rise-roofing-restoration/",
+      "name": "RISE Roofing & Restoration",
+      "description": "GAF Master Elite contractor with 12+ years experience in roofing project management and storm damage coordination serving Mooresville and greater Charlotte area.",
+      "url": "https://riseroofingandrestoration.com",
+      "telephone": "+1-704-486-1348",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mooresville",
+        "addressRegion": "NC",
+        "addressCountry": "US"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "priceRange": "$$",
+      "areaServed": {
+        "@type": "GeoCircle",
+        "geoMidpoint": {
+          "@type": "GeoCoordinates",
+          "latitude": 35.5849,
+          "longitude": -80.8101
+        },
+        "geoRadius": "50 mi"
+      },
+      "award": [
+        "GAF Master Elite Contractor"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://example.com/roofers/charlotte-nc/weather-roofing/",
+      "name": "Weather Roofing",
+      "description": "BBB A+ accredited roofing contractor specializing in residential roofing, metal roofing, and storm damage repair in Charlotte, NC.",
+      "url": "https://weatherroofing.com",
+      "telephone": "+1-704-774-3041",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6135 Park S Dr, Ste 500",
+        "addressLocality": "Charlotte",
+        "addressRegion": "NC",
+        "postalCode": "28210",
+        "addressCountry": "US"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "priceRange": "$$",
+      "founder": {
+        "@type": "Person",
+        "name": "Robert G. Tebbutt Jr.",
+        "jobTitle": "Owner"
+      },
+      "foundingDate": "2022",
+      "award": [
+        "BBB A+ Accreditation"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Who are the best roofers in Charlotte, NC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The top-rated roofers in Charlotte, NC with verified 4.5+ star ratings include: Best Roofing Now LLC (5.0 stars, BBB A+, veteran-owned), RISE Roofing & Restoration (5.0 stars, GAF Master Elite), and Weather Roofing (5.0 stars, BBB A+ accredited). All three are licensed in North Carolina with proper insurance and manufacturer certifications."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a roof replacement cost in Charlotte, NC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A roof replacement in Charlotte, NC typically costs between $8,000 and $25,000 depending on roof size, material choice, and complexity. Asphalt shingles average $9,000-$14,000 for a standard home, while metal roofing ranges from $14,000-$28,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What certifications should a Charlotte roofer have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A qualified Charlotte roofer should have: NC General Contractor License (for projects over $30,000), liability insurance, workers' compensation insurance, and manufacturer certifications like GAF Master Elite, CertainTeed SELECT ShingleMaster, or Owens Corning Preferred. BBB A+ accreditation is also recommended."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does insurance cover roof replacement in Charlotte after a storm?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, homeowner's insurance typically covers roof damage in Charlotte caused by hail, wind, fallen trees, lightning, and fire. It does not cover normal wear and tear, roofs over 20 years old (may have reduced coverage), or lack of maintenance. Contact your insurance company within 24-48 hours of damage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a roof replacement take in Charlotte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most residential roof replacements in Charlotte take 1-3 days for standard asphalt shingle installations. Complex roofs or metal installations may take 5-7 days. Weather delays can extend the timeline."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://example.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "North Carolina",
+          "item": "https://example.com/roofers/north-carolina/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Charlotte",
+          "item": "https://example.com/roofers/charlotte-nc/"
+        }
+      ]
+    }
+  ]
+}

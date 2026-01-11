@@ -1,0 +1,113 @@
+{
+  "metroArea": {
+    "slug": "miami-fl",
+    "city": "Miami",
+    "state": "FL",
+    "stateAbbr": "FL",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "canopy-roofing",
+      "name": "Canopy Roofing Inc.",
+      "slug": "canopy-roofing",
+      "description": "Canopy Roofing Inc. was established by Federico Ambrosini and Melvin Sabillon as South Florida's premier roofing specialists. With over a decade of combined experience, they specialize in re-roofing, roof repairs, and inspections. BBB A+ accredited with a 4.8-star rating on Google and 5-star on Angi. Licensed Certified Roofing Contractor (CCC1331138).",
+      "phone": "(786) 523-4999",
+      "email": "info@canopyroofers.com",
+      "website": "https://canopyroofers.com",
+      "address": "7311 NW 12th St, #17",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33126",
+      "googleRating": 4.8,
+      "reviewCount": 111,
+      "angiRating": 5.0,
+      "services": ["residential", "commercial", "repairs", "inspections", "re-roofing"],
+      "materials": ["architectural-shingles", "tile", "flat-roofing", "metal"],
+      "certifications": ["BBB-A+", "FL-Licensed-CCC1331138"],
+      "ownership": {
+        "founders": "Federico Ambrosini and Melvin Sabillon"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "miami-fl",
+      "sources": [
+        "https://canopyroofers.com/",
+        "https://www.bbb.org/us/fl/miami/profile/roofing-contractors/canopy-roofing-inc-0633-90363783"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "high-point-roofing",
+      "name": "High Point Roofing Corp",
+      "slug": "high-point-roofing",
+      "description": "High Point Roofing Corp is a fully licensed and insured roofing company serving Miami since 1989. Led by President Ben Sibila, they are BBB A+ accredited since 2016 with a 4.9-star Google rating. They specialize in residential, commercial, and new roof construction services throughout Miami-Dade County.",
+      "phone": "(305) 801-5332",
+      "email": "info@highpointroofingcorp.com",
+      "website": "https://highpointroofingcorp.com",
+      "address": "7105 SW 8th St, Ste 202",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33144",
+      "googleRating": 4.9,
+      "reviewCount": 33,
+      "services": ["residential", "commercial", "repairs", "metal", "flat-roofing", "new-construction"],
+      "materials": ["architectural-shingles", "tile", "metal", "flat-roofing"],
+      "certifications": ["BBB-A+"],
+      "yearsInBusiness": 36,
+      "foundedYear": 1989,
+      "ownership": {
+        "president": "Ben Sibila"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "miami-fl",
+      "sources": [
+        "https://highpointroofingcorp.com/",
+        "https://www.bbb.org/us/fl/miami/profile/roofing-contractors/high-point-roofing-corporation-0633-90313796"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "ts-roofing-systems",
+      "name": "T&S Roofing Systems Inc",
+      "slug": "ts-roofing-systems",
+      "description": "T&S Roofing Systems was founded in 2004 when Louis Toledo, a Florida state-licensed roofing and general contractor, joined forces with Ernesto Sanchez, a 30-year veteran roofing professional. They are a GAF Master Elite Contractor with the GAF President's Club Award and BBB A+ rating. Serving Miami-Dade and South Broward counties.",
+      "phone": "(305) 363-6133",
+      "website": "https://www.tsroofingsystems.com",
+      "address": "2519 NW 38th St",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33142",
+      "googleRating": 4.8,
+      "reviewCount": 87,
+      "services": ["residential", "commercial", "repairs", "inspections", "new-construction"],
+      "materials": ["architectural-shingles", "GAF", "tile", "flat-roofing"],
+      "certifications": ["BBB-A+", "GAF-Master-Elite", "GAF-Presidents-Club"],
+      "yearsInBusiness": 22,
+      "foundedYear": 2004,
+      "ownership": {
+        "founders": "Louis Toledo and Ernesto Sanchez"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "miami-fl",
+      "sources": [
+        "https://www.tsroofingsystems.com/",
+        "https://www.bbb.org/us/fl/miami/profile/roofing-consultants/ts-roofing-systems-inc-0633-9001263"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

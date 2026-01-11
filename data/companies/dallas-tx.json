@@ -1,0 +1,113 @@
+{
+  "metroArea": {
+    "slug": "dallas-tx",
+    "city": "Dallas",
+    "state": "TX",
+    "stateAbbr": "TX",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "ready-roofing-solar",
+      "name": "Ready Roofing & Solar",
+      "slug": "ready-roofing-solar",
+      "description": "Ready Roofing & Solar is a family-owned and operated business that has provided roofing and exterior services in the DFW area for over 50 years since 1971. BBB A+ accredited since 2013, they are certified, insured, and bonded. Named Neighborhood Favorite on Nextdoor in 2022 and 2023 with a BuildZoom score of 91 ranking in the top 37% of Texas contractors.",
+      "phone": "(972) 736-9468",
+      "website": "https://readyrooftx.com",
+      "address": "13140 Coit Rd, Ste 516",
+      "city": "Dallas",
+      "state": "TX",
+      "zipCode": "75240",
+      "googleRating": 4.8,
+      "reviewCount": 117,
+      "services": ["residential", "commercial", "repairs", "solar", "exteriors"],
+      "materials": ["architectural-shingles", "metal", "flat-roofing", "solar"],
+      "certifications": ["BBB-A+", "Nextdoor-Neighborhood-Favorite"],
+      "yearsInBusiness": 54,
+      "foundedYear": 1971,
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "dallas-tx",
+      "sources": [
+        "https://readyrooftx.com/",
+        "https://www.bbb.org/us/tx/dallas/profile/commercial-roofing/ready-roofing-solar-0875-90411431"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "outback-roofing",
+      "name": "Outback Roofing & Restoration",
+      "slug": "outback-roofing",
+      "description": "Outback Roofing & Restoration is a veteran-owned and family-operated business founded in 2007. Owner Chris Crutcher served in the Navy and was President of the Roofing Contractors Association of Texas (RCAT) in 2015-2016. They are BBB A+ rated, fully insured, and members of the North Texas Roofing Contractors Association (NTRCA).",
+      "phone": "(972) 930-9990",
+      "website": "https://www.outbackroofing.com",
+      "address": "17618 Davenport Rd, Suite 2",
+      "city": "Dallas",
+      "state": "TX",
+      "zipCode": "75252",
+      "googleRating": 4.7,
+      "reviewCount": 22,
+      "services": ["residential", "commercial", "repairs", "storm-damage", "insurance-claims"],
+      "materials": ["architectural-shingles", "metal", "flat-roofing"],
+      "certifications": ["BBB-A+", "RCAT-Member", "NTRCA-Member"],
+      "yearsInBusiness": 18,
+      "foundedYear": 2007,
+      "veteranOwned": true,
+      "familyOwned": true,
+      "ownership": {
+        "owner": "Chris Crutcher"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "dallas-tx",
+      "sources": [
+        "https://www.outbackroofing.com/",
+        "https://www.bbb.org/us/tx/dallas/profile/roofing-contractors/outback-roofing-llc-0875-90377811"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "artisan-roofing-solar",
+      "name": "Artisan Roofing & Solar",
+      "slug": "artisan-roofing-solar",
+      "description": "Artisan Roofing & Solar is a family-owned roofing company serving the Dallas-Fort Worth area for over 13 years. Owned by Luis J. Estorga and Lorena Estorga, they are BBB A+ accredited with 5-star reviews on Google and Angi. Their BuildZoom score of 95 places them above 78% of Texas contractors. Member of the Roofing Contractors Association of Texas.",
+      "phone": "(972) 854-9212",
+      "website": "https://acsroofing.net",
+      "address": "1850 Crown Dr, Ste 1111",
+      "city": "Dallas",
+      "state": "TX",
+      "zipCode": "75234",
+      "googleRating": 5.0,
+      "reviewCount": 50,
+      "angiRating": 5.0,
+      "services": ["residential", "commercial", "repairs", "solar", "storm-damage", "emergency", "gutters", "siding"],
+      "materials": ["architectural-shingles", "GAF", "solar"],
+      "certifications": ["BBB-A+", "GAF-Certified", "RCAT-Member"],
+      "yearsInBusiness": 13,
+      "familyOwned": true,
+      "ownership": {
+        "owners": "Luis J. Estorga and Lorena Estorga"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "dallas-tx",
+      "sources": [
+        "https://acsroofing.net/",
+        "https://www.bbb.org/us/tx/dallas/profile/roofing-contractors/artisan-roofing-and-solar-0875-90461819"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

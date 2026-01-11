@@ -1,0 +1,115 @@
+{
+  "metroArea": {
+    "slug": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state": "CA",
+    "stateAbbr": "CA",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "roof-repair-specialist",
+      "name": "Specialist Roofing & Repair",
+      "slug": "roof-repair-specialist",
+      "description": "Roof Repair Specialist was started by two brothers, Andre and Chris, as a family-owned business. BBB A+ accredited with a 4.9-star Google rating from 141 reviews and 4.8 stars on Yelp from 673 reviews. They are Owens Corning Platinum Preferred Contractors serving Burbank, North Hollywood, Sherman Oaks, and Pasadena for over a decade.",
+      "phone": "(626) 869-7663",
+      "website": "https://www.roofrepairspecialist.com",
+      "address": "1061 N Victory Pl",
+      "city": "Burbank",
+      "state": "CA",
+      "zipCode": "91502",
+      "googleRating": 4.9,
+      "reviewCount": 141,
+      "yelpRating": 4.8,
+      "yelpReviewCount": 673,
+      "services": ["residential", "commercial", "repairs", "inspections"],
+      "materials": ["architectural-shingles", "Owens-Corning", "tile", "flat-roofing"],
+      "certifications": ["BBB-A+", "Owens-Corning-Platinum-Preferred"],
+      "yearsInBusiness": 10,
+      "familyOwned": true,
+      "ownership": {
+        "founders": "Brothers Andre and Chris"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "los-angeles-ca",
+      "sources": [
+        "https://www.roofrepairspecialist.com/",
+        "https://www.bbb.org/us/ca/burbank/profile/roofing-contractors/roof-repair-specialist-1216-609891"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "hunters-roofing",
+      "name": "Hunters Roofing & Solar",
+      "slug": "hunters-roofing",
+      "description": "Hunters Roofing was started in 1991 and has 33 years in business. BBB A+ accredited since 2016 with a 4.7-star rating on Google and over 90 positive online reviews. Managed by Douglas Hunter, they specialize in residential, commercial roofing, roof repair, and solar panels throughout the San Fernando Valley.",
+      "phone": "(818) 996-6120",
+      "website": "https://huntersroofing.com",
+      "address": "18328 Eddy St",
+      "city": "Northridge",
+      "state": "CA",
+      "zipCode": "91325",
+      "googleRating": 4.7,
+      "reviewCount": 43,
+      "services": ["residential", "commercial", "repairs", "solar"],
+      "materials": ["architectural-shingles", "tile", "flat-roofing"],
+      "certifications": ["BBB-A+"],
+      "yearsInBusiness": 33,
+      "foundedYear": 1991,
+      "ownership": {
+        "manager": "Douglas Hunter"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "los-angeles-ca",
+      "sources": [
+        "https://huntersroofing.com/",
+        "https://www.bbb.org/us/ca/northridge/profile/building-contractors/hunters-roofing-1216-13059129"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "rafael-iris-roofing",
+      "name": "Rafael and Iris Roofing",
+      "slug": "rafael-iris-roofing",
+      "description": "Rafael and Iris Roofing was established in 2009 by Rafael and his son Aviv Shlush. BBB A+ accredited, they are certified with Owens Corning, GAF, and CertainTeed. Based in Valley Village, they serve San Fernando Valley, Culver City, Pasadena, and surrounding Los Angeles areas with residential roofing services.",
+      "phone": "(818) 629-9994",
+      "website": "https://www.rafaelandirisroofing.com",
+      "address": "5352 Laurel Canyon Blvd, Ste 206",
+      "city": "Valley Village",
+      "state": "CA",
+      "zipCode": "91607",
+      "googleRating": 4.8,
+      "reviewCount": 50,
+      "services": ["residential", "repairs", "shingle-replacement", "flat-roofing", "tile", "roof-coating"],
+      "materials": ["architectural-shingles", "Owens-Corning", "GAF", "CertainTeed", "tile", "flat-roofing"],
+      "certifications": ["BBB-A+", "Owens-Corning-Certified", "GAF-Certified", "CertainTeed-Certified"],
+      "yearsInBusiness": 16,
+      "foundedYear": 2009,
+      "familyOwned": true,
+      "ownership": {
+        "founders": "Rafael and Aviv Shlush"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "los-angeles-ca",
+      "sources": [
+        "https://www.rafaelandirisroofing.com/",
+        "https://www.bbb.org/us/ca/valley-village/profile/roofing-contractors/rafael-and-iris-roofing-1216-1530476"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

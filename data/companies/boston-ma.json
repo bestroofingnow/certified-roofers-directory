@@ -1,0 +1,110 @@
+{
+  "metroArea": {
+    "slug": "boston-ma",
+    "city": "Boston",
+    "state": "MA",
+    "stateAbbr": "MA",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "northeast-home-energy",
+      "name": "Northeast Home & Energy",
+      "slug": "northeast-home-energy",
+      "description": "Northeast Home & Energy is a family-owned Massachusetts remodeling company that has been delivering expert services since 1980. With over 45 years of experience and a consistent A+ BBB rating for more than 30 years, they specialize in roofing, energy-efficient windows, siding, and attic insulation. GAF-certified roof installers.",
+      "phone": "(508) 839-7001",
+      "website": "https://northeast-home.com",
+      "address": "21 N Main St",
+      "city": "North Grafton",
+      "state": "MA",
+      "zipCode": "01536",
+      "googleRating": 4.8,
+      "reviewCount": 94,
+      "services": ["residential", "commercial", "repairs", "windows", "siding", "insulation"],
+      "materials": ["architectural-shingles", "GAF"],
+      "certifications": ["BBB-A+", "GAF-Certified"],
+      "yearsInBusiness": 45,
+      "foundedYear": 1980,
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "boston-ma",
+      "sources": [
+        "https://northeast-home.com/",
+        "https://www.bbb.org/us/ma/north-grafton/profile/roofing-contractors/northeast-home-energy-0261-100416"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "mjy-construction",
+      "name": "MJY Construction Inc.",
+      "slug": "mjy-construction",
+      "description": "MJY Construction is a family-owned business with licensed roofing and construction professionals, established in 2004. BBB A+ rated with over 20 years as Brockton's leading residential roofing contractor. They offer free inspections and specialize in roof repair, replacement, and maintenance throughout the Boston area.",
+      "phone": "(617) 777-8511",
+      "website": "https://mjyconstructionma.com",
+      "address": "244 Liberty St, Ste 11",
+      "city": "Brockton",
+      "state": "MA",
+      "zipCode": "02301",
+      "googleRating": 4.9,
+      "reviewCount": 190,
+      "services": ["residential", "commercial", "repairs", "maintenance", "storm-damage", "windows", "siding", "gutters"],
+      "materials": ["architectural-shingles"],
+      "certifications": ["BBB-A+"],
+      "yearsInBusiness": 21,
+      "foundedYear": 2004,
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "boston-ma",
+      "sources": [
+        "https://mjyconstructionma.com/",
+        "https://www.bbb.org/us/ma/brockton/profile/roofing-contractors/mjy-construction-inc-0021-553063"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "willard-roofing",
+      "name": "Willard Roofing / The Willard Company",
+      "slug": "willard-roofing",
+      "description": "Willard Roofing was established in 1873 and incorporated under Boston Lightning Rod Company in 1911. Now a 5th generation family business led by Parker M. Willard Jr., they have over 150 years of roofing expertise. They specialize in asphalt, copper, slate, tile, wood shingles, and rubber roofing for residential and commercial clients.",
+      "phone": "(781) 326-2807",
+      "website": "https://www.willardco.com",
+      "address": "1201 East St",
+      "city": "Dedham",
+      "state": "MA",
+      "zipCode": "02026",
+      "googleRating": 4.7,
+      "reviewCount": 20,
+      "services": ["residential", "commercial", "repairs", "copper", "slate", "tile", "cedar-shingles", "rubber-roofing"],
+      "materials": ["architectural-shingles", "copper", "slate", "tile", "cedar", "rubber"],
+      "certifications": [],
+      "yearsInBusiness": 152,
+      "foundedYear": 1873,
+      "familyOwned": true,
+      "ownership": {
+        "president": "Parker M. Willard, Sr.",
+        "generalManager": "Parker M. Willard, Jr."
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "boston-ma",
+      "sources": [
+        "https://www.willardco.com/",
+        "https://www.bbb.org/us/ma/dedham/profile/roofing-contractors/willard-roofing-0021-6755"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

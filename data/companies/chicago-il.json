@@ -1,0 +1,110 @@
+{
+  "metroArea": {
+    "slug": "chicago-il",
+    "city": "Chicago",
+    "state": "IL",
+    "stateAbbr": "IL",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "second-city-roofing",
+      "name": "Second City Roofing & Exteriors",
+      "slug": "second-city-roofing",
+      "description": "Second City Roofing & Exteriors is a family-owned and operated roofing company that has served Chicagoland for over 45 years. Founded by Ed Baker, they are BBB A+ rated with a 4.7 Angie's List rating. Fully licensed, bonded, and insured with State of Illinois Roofing License #104.013526.",
+      "phone": "(773) 384-6300",
+      "email": "secondcityconstruction@yahoo.com",
+      "website": "https://www.secondcityconstruction.com",
+      "address": "3006 W. Diversey Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60647",
+      "googleRating": 4.3,
+      "reviewCount": 45,
+      "angiRating": 4.7,
+      "services": ["residential", "commercial", "repairs", "flat-roofing", "siding", "exteriors"],
+      "materials": ["architectural-shingles", "flat-roofing", "rubber", "modified-bitumen"],
+      "certifications": ["BBB-A+", "IL-Roofing-License-104013526", "Chicago-GC-License-GC04529-6"],
+      "yearsInBusiness": 45,
+      "familyOwned": true,
+      "ownership": {
+        "founder": "Ed Baker"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "chicago-il",
+      "sources": [
+        "https://www.secondcityconstruction.com/",
+        "https://www.bbb.org/us/il/chicago/profile/roofing-contractors/second-city-roofing-exteriors-0654-30000158"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "horizon-restoration",
+      "name": "Horizon Restoration Corp",
+      "slug": "horizon-restoration",
+      "description": "Horizon Restoration is a full-service general contractor and insurance restoration company established in 2007. BBB A+ accredited since 2015 with a 4.9-star Google rating from 245 reviews. They are Owens Corning Preferred Contractor, CertainTeed Silver Star Commercial Roofing Contractor, and CertainTeed SELECT Shingle Master certified.",
+      "phone": "(773) 993-0998",
+      "website": "https://www.horizonrestoration.com",
+      "address": "7122 W Higgins Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60656",
+      "googleRating": 4.9,
+      "reviewCount": 245,
+      "angiRating": 4.6,
+      "services": ["residential", "repairs", "siding", "gutters", "windows", "insurance-claims"],
+      "materials": ["architectural-shingles", "Owens-Corning", "CertainTeed"],
+      "certifications": ["BBB-A+", "Owens-Corning-Preferred", "CertainTeed-Silver-Star", "CertainTeed-SELECT-ShingleMaster"],
+      "yearsInBusiness": 18,
+      "foundedYear": 2007,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "chicago-il",
+      "sources": [
+        "https://www.horizonrestoration.com/",
+        "https://www.bbb.org/us/il/chicago/profile/roofing-contractors/horizon-restoration-corp-0654-88710794"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "blue-sky-roofing",
+      "name": "Blue Sky Roofing, Inc.",
+      "slug": "blue-sky-roofing",
+      "description": "Blue Sky Roofing, Inc. is a family-owned and operated business serving Chicago and suburbs for over 20 years. BBB A+ rated with a 4.8-star rating on Angi and BuildZoom score of 114 ranking in the top 2% of Illinois contractors. Named Neighborhood Favorite on Nextdoor in 2021 and 2022.",
+      "phone": "(773) 237-7730",
+      "website": "https://blueskyroofinginc.com",
+      "address": "6014 W. Diversey Pkwy",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60639",
+      "googleRating": 4.8,
+      "reviewCount": 58,
+      "angiRating": 4.8,
+      "services": ["residential", "commercial", "repairs", "flat-roofing", "skylights", "gutters", "emergency"],
+      "materials": ["architectural-shingles", "rubber", "torch-down", "flat-roofing"],
+      "certifications": ["BBB-A+", "BuildZoom-Top-2-Percent", "Nextdoor-Neighborhood-Favorite"],
+      "yearsInBusiness": 20,
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "chicago-il",
+      "sources": [
+        "https://blueskyroofinginc.com/",
+        "https://www.bbb.org/us/il/chicago/profile/general-contractor/blue-sky-roofing-inc-0654-75000932"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

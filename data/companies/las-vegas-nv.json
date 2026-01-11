@@ -1,0 +1,115 @@
+{
+  "metroArea": {
+    "slug": "las-vegas-nv",
+    "city": "Las Vegas",
+    "state": "NV",
+    "stateAbbr": "NV",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "ariat-roofing",
+      "name": "Ariat Roofing, Inc.",
+      "slug": "ariat-roofing",
+      "description": "Ariat Roofing is a family-owned roofing contractor that has served Las Vegas and surrounding areas since 2008. BBB A+ accredited with zero customer complaints, fully licensed, bonded and insured in Nevada. Owner Jay Gray and his team bring over 35 years of experience in the roofing industry.",
+      "phone": "(702) 982-1382",
+      "website": "https://ariatroofing.com",
+      "address": "3261 E Warm Springs Rd",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipCode": "89120",
+      "googleRating": 4.8,
+      "reviewCount": 79,
+      "services": ["residential", "commercial", "repairs", "maintenance", "insurance-claims", "waterproofing"],
+      "materials": ["tile", "concrete", "architectural-shingles", "flat-roofing"],
+      "certifications": ["BBB-A+", "NV-Licensed"],
+      "yearsInBusiness": 17,
+      "foundedYear": 2008,
+      "familyOwned": true,
+      "ownership": {
+        "owner": "Jay Gray",
+        "president": "Jack B. Gray"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "las-vegas-nv",
+      "sources": [
+        "https://ariatroofing.com/",
+        "https://www.bbb.org/us/nv/las-vegas/profile/roofing-contractors/ariat-roofing-inc-1086-81581"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "desert-valley-roofing",
+      "name": "Desert Valley Roofing LLC",
+      "slug": "desert-valley-roofing",
+      "description": "Desert Valley Roofing has been Las Vegas's roofing expert for more than 35 years. BBB A+ accredited with zero customer complaints, fully licensed, bonded and insured in Nevada with professional liability insurance. Managed by Mark B. Wolmuth, they offer senior and military discounts with Spanish-speaking service available.",
+      "phone": "(702) 558-8775",
+      "website": "https://desertvalleyroofingvegas.com",
+      "address": "8320 Lindell Rd",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipCode": "89139",
+      "googleRating": 4.9,
+      "reviewCount": 116,
+      "services": ["residential", "commercial", "repairs", "inspections", "metal", "flat-roofing", "tile", "shingle"],
+      "materials": ["tile", "metal", "shake", "shingle", "flat-roofing"],
+      "certifications": ["BBB-A+", "NV-Licensed-Bonded"],
+      "yearsInBusiness": 35,
+      "familyOwned": true,
+      "ownership": {
+        "managingMember": "Mark B. Wolmuth"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "las-vegas-nv",
+      "sources": [
+        "https://desertvalleyroofingvegas.com/",
+        "https://www.bbb.org/us/nv/las-vegas/profile/roofing-contractors/desert-valley-roofing-llc-1086-90028088"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "a-step-above",
+      "name": "A Step Above, Inc.",
+      "slug": "a-step-above",
+      "description": "A Step Above is a family-owned and operated local roofing contractor with over 20 years of experience. BBB A+ accredited with zero customer complaints. Led by President Jeremie R. Eubank and Vice President Shauna Eubank, they are licensed and bonded through the Nevada State Contractors Board (License #0080776).",
+      "phone": "(702) 810-7479",
+      "website": "https://asairoofing.com",
+      "address": "3400 W Desert Inn Rd, Ste 14",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipCode": "89102",
+      "googleRating": 4.8,
+      "reviewCount": 96,
+      "services": ["residential", "repairs", "maintenance", "tile", "shingle", "flat-roofing", "certifications"],
+      "materials": ["tile", "shingle", "flat-roofing"],
+      "certifications": ["BBB-A+", "NV-State-License-0080776"],
+      "yearsInBusiness": 20,
+      "familyOwned": true,
+      "ownership": {
+        "president": "Jeremie R. Eubank",
+        "vicePresident": "Shauna Eubank"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "las-vegas-nv",
+      "sources": [
+        "https://asairoofing.com/",
+        "https://www.bbb.org/us/nv/las-vegas/profile/roofing-contractors/a-step-above-inc-1086-90051189"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

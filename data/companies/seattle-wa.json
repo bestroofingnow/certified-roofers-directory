@@ -1,0 +1,109 @@
+{
+  "metroArea": {
+    "slug": "seattle-wa",
+    "city": "Seattle",
+    "state": "WA",
+    "stateAbbr": "WA",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "three-tree-roofing",
+      "name": "Three Tree Roofing",
+      "slug": "three-tree-roofing",
+      "description": "Three Tree Roofing is a family-run, full service, certified, and licensed roofing company serving Seattle and the greater Puget Sound with pride and integrity. With over 15 years of experience and more than 450 five-star reviews, they specialize in composite shingle, metal, cedar shake, and Tesla solar roofs.",
+      "phone": "(206) 312-7663",
+      "website": "https://www.threetreeroofing.com",
+      "address": "19032 66th Ave S, Ste C-104",
+      "city": "Kent",
+      "state": "WA",
+      "zipCode": "98032",
+      "secondaryAddress": "1455 NW Leary Way, Seattle, WA 98107",
+      "googleRating": 5.0,
+      "reviewCount": 450,
+      "services": ["residential", "repairs", "metal", "cedar-shake", "solar", "inspections"],
+      "materials": ["architectural-shingles", "metal", "cedar-shake", "Tesla-solar"],
+      "certifications": [],
+      "yearsInBusiness": 15,
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "seattle-wa",
+      "sources": [
+        "https://www.threetreeroofing.com/",
+        "https://www.threetreeroofing.com/contact-three-tree-roofing/"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "a-better-roofing",
+      "name": "A Better Roofing Company",
+      "slug": "a-better-roofing",
+      "description": "Established in 1991 by brothers Kurt & Scott MacMillan, A Better Roofing Company has proven to be an industry leader in residential roof replacement. Now a second-generation family business with Scott's sons Alex and Christian continuing the legacy. BuildZoom score of 107 ranks them above 94% of Washington contractors.",
+      "phone": "(206) 935-1575",
+      "website": "https://www.abetterroofing.com",
+      "address": "4126 Airport Way S",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "98108",
+      "googleRating": 4.8,
+      "reviewCount": 82,
+      "services": ["residential", "repairs", "skylights", "gutters", "chimney-flashing", "chimney-rebuild"],
+      "materials": ["architectural-shingles", "composition"],
+      "certifications": ["BuildZoom-Top-6-Percent"],
+      "yearsInBusiness": 34,
+      "foundedYear": 1991,
+      "familyOwned": true,
+      "ownership": {
+        "president": "Scott Allen MacMillan",
+        "vicePresident": "Kurtis Peter MacMillan"
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "seattle-wa",
+      "sources": [
+        "https://www.abetterroofing.com/",
+        "https://www.bbb.org/us/wa/seattle/profile/roofing-contractors/a-better-roofing-company-inc-1296-505318"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "north-creek-roofing",
+      "name": "North Creek Roofing Inc",
+      "slug": "north-creek-roofing",
+      "description": "Since 1996, North Creek Roofing has been a go-to partner for homeowners seeking high-quality roofing services in the Puget Sound Region. BBB A+ rated with advanced certifications from Owens Corning, CertainTeed, and GAF. They specialize in shake and composition roofing, repairs, cleaning, maintenance, and attic insulation.",
+      "phone": "(425) 483-7986",
+      "website": "https://northcreekroofing.com",
+      "address": "16000 Mill Creek Blvd, Suite 102",
+      "city": "Mill Creek",
+      "state": "WA",
+      "zipCode": "98012",
+      "googleRating": 4.9,
+      "reviewCount": 75,
+      "services": ["residential", "repairs", "cleaning", "maintenance", "attic-insulation"],
+      "materials": ["architectural-shingles", "cedar-shake", "composition", "Owens-Corning", "CertainTeed", "GAF"],
+      "certifications": ["BBB-A+", "GAF-Certified", "CertainTeed-SELECT-ShingleMaster", "Owens-Corning-Platinum-Preferred"],
+      "yearsInBusiness": 29,
+      "foundedYear": 1996,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "seattle-wa",
+      "sources": [
+        "https://northcreekroofing.com/",
+        "https://www.bbb.org/us/wa/mill-creek/profile/roofing-contractors/north-creek-roofing-inc-1296-3026823"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

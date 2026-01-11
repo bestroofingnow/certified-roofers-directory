@@ -1,0 +1,156 @@
+{
+  "metroArea": {
+    "slug": "charlotte-nc",
+    "city": "Charlotte",
+    "state": "NC",
+    "stateAbbr": "NC",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": {
+    "id": "best-roofing-now",
+    "name": "Best Roofing Now LLC",
+    "slug": "best-roofing-now",
+    "description": "Best Roofing Now LLC is a family-owned, veteran-operated roofing company serving Charlotte and surrounding areas within 50 miles. Founded in 2019 by James Turner (CEO) and Fred Turner (military veteran), the company has earned BBB A+ accreditation and maintains a 5-star average rating. With over 28 years of combined leadership experience, they specialize in residential and commercial roofing including installation, repair, replacement, inspections, emergency services, storm damage assessment, and insurance claims assistance.",
+    "phone": "(704) 605-6047",
+    "email": "info@bestroofingnow.com",
+    "website": "https://www.bestroofingnow.com",
+    "address": "10130 Mallard Creek Rd, Ste 300",
+    "city": "Charlotte",
+    "state": "NC",
+    "zipCode": "28262",
+    "googleRating": 5.0,
+    "reviewCount": 62,
+    "angiRating": 4.9,
+    "services": [
+      "residential",
+      "commercial",
+      "repairs",
+      "inspections",
+      "emergency",
+      "gutters",
+      "siding",
+      "storm-damage",
+      "insurance-claims",
+      "skylights"
+    ],
+    "materials": [
+      "architectural-shingles",
+      "CertainTeed",
+      "GAF",
+      "Owens-Corning",
+      "flat-roofing"
+    ],
+    "certifications": [
+      "BBB-A+",
+      "CertainTeed-SELECT-ShingleMaster",
+      "GAF-Factory-Certified",
+      "Owens-Corning-Preferred",
+      "NC-Licensed-General-Contractor",
+      "SC-Licensed-Contractor",
+      "Angi-Super-Service-Award-2023"
+    ],
+    "yearsInBusiness": 5,
+    "foundedYear": 2019,
+    "veteranOwned": true,
+    "familyOwned": true,
+    "ownership": {
+      "ceo": "James Turner",
+      "coFounder": "Fred Turner",
+      "chiefProductionOfficer": "Ismael DeLatorre"
+    },
+    "serviceAreas": [
+      "Charlotte",
+      "Huntersville",
+      "Cornelius",
+      "Lake Norman",
+      "Mooresville",
+      "Rock Hill",
+      "Fort Mill",
+      "Matthews",
+      "Mint Hill",
+      "Concord"
+    ],
+    "businessHours": {
+      "monday": "8:00 AM - 8:00 PM",
+      "tuesday": "8:00 AM - 8:00 PM",
+      "wednesday": "8:00 AM - 8:00 PM",
+      "thursday": "8:00 AM - 8:00 PM",
+      "friday": "8:00 AM - 8:00 PM",
+      "saturday": "8:00 AM - 7:00 PM",
+      "sunday": "1:00 PM - 5:00 PM",
+      "emergency": "24/7"
+    },
+    "isFeatured": true,
+    "isVerified": true,
+    "listingTier": "featured",
+    "metroArea": "charlotte-nc",
+    "sources": [
+      "https://www.bestroofingnow.com/about",
+      "https://www.bbb.org/us/nc/charlotte/profile/roofing-contractors/best-roofing-now-0473-908763",
+      "https://www.angi.com/companylist/us/nc/charlotte/best-roofing-now-reviews-10094384.htm"
+    ],
+    "createdAt": "2026-01-11T00:00:00Z",
+    "updatedAt": "2026-01-11T00:00:00Z"
+  },
+  "companies": [
+    {
+      "id": "rise-roofing-restoration",
+      "name": "RISE Roofing & Restoration",
+      "slug": "rise-roofing-restoration",
+      "description": "RISE Roofing & Restoration has over 12 years of industry experience and has built a reputation for excellence in roofing project management, storm damage coordination, and customer service. As a GAF Master Elite® Contractor, they adhere to the highest standards of quality and craftsmanship. They offer detailed drone inspections and hassle-free insurance claim assistance.",
+      "phone": "(704) 486-1348",
+      "website": "https://riseroofingandrestoration.com",
+      "city": "Mooresville",
+      "state": "NC",
+      "googleRating": 5.0,
+      "services": ["residential", "commercial", "repairs", "storm-damage", "insurance-claims", "gutters", "inspections"],
+      "materials": ["architectural-shingles", "GAF"],
+      "certifications": ["GAF-Master-Elite"],
+      "yearsInBusiness": 12,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "charlotte-nc",
+      "sources": [
+        "https://riseroofingandrestoration.com/",
+        "https://www.gaf.com/en-us/roofing-contractors/residential/usa/nc/mooresville/rise-roofing-restoration-llc-1147095"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "weather-roofing",
+      "name": "Weather Roofing",
+      "slug": "weather-roofing",
+      "description": "Weather Roofing is BBB A+ accredited since 2022 and owned by Robert G. Tebbutt Jr. Licensed by the NC General Contractors Licensing Board (#87879), they specialize in residential roofing, metal roofing, storm damage repair, and roof inspections. Known for exceptional customer service and quality workmanship throughout the Charlotte metro area.",
+      "phone": "(704) 774-3041",
+      "website": "https://weatherroofing.com",
+      "address": "6135 Park S Dr, Ste 500",
+      "city": "Charlotte",
+      "state": "NC",
+      "zipCode": "28210",
+      "googleRating": 5.0,
+      "services": ["residential", "repairs", "metal", "storm-damage", "inspections", "shingles"],
+      "materials": ["architectural-shingles", "metal"],
+      "certifications": ["BBB-A+", "NC-Licensed-87879"],
+      "yearsInBusiness": 3,
+      "foundedYear": 2022,
+      "ownership": {
+        "owner": "Robert G. Tebbutt Jr."
+      },
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "charlotte-nc",
+      "sources": [
+        "https://weatherroofing.com/",
+        "https://www.bbb.org/us/nc/charlotte/profile/roofing-contractors/weather-roofing-0473-92021814"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}

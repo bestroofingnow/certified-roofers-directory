@@ -1,0 +1,154 @@
+{
+  "metroArea": {
+    "slug": "atlanta-ga",
+    "city": "Atlanta",
+    "state": "GA",
+    "stateAbbr": "GA",
+    "targetCompanies": 3,
+    "lastUpdated": "2026-01-11"
+  },
+  "featuredCompany": null,
+  "companies": [
+    {
+      "id": "right-hand-roofing",
+      "name": "Right Hand Roofing and Gutters LLC",
+      "slug": "right-hand-roofing",
+      "description": "Right Hand Roofing and Gutters LLC is a trusted, family-owned roofing business serving Georgia and Alabama. With 350+ five-star reviews, they specialize in residential and commercial roofing including TPO, EPDM, and modified bitumen systems. They also offer gutter services, window installation, siding, fence repair, and storm damage restoration with full insurance support.",
+      "phone": "(678) 840-2255",
+      "email": null,
+      "website": "https://www.right-handroofing.com",
+      "address": "304 Hamilton Ave",
+      "city": "Bremen",
+      "state": "GA",
+      "zipCode": "30110",
+      "googleRating": 5.0,
+      "reviewCount": 350,
+      "services": [
+        "residential",
+        "commercial",
+        "repairs",
+        "gutters",
+        "storm-damage",
+        "insurance-claims",
+        "siding",
+        "windows"
+      ],
+      "materials": [
+        "architectural-shingles",
+        "TPO",
+        "EPDM",
+        "modified-bitumen"
+      ],
+      "certifications": [
+        "BBB-Accredited",
+        "NRCA-Member",
+        "Licensed-GA",
+        "Licensed-AL"
+      ],
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "atlanta-ga",
+      "sources": [
+        "https://www.right-handroofing.com/"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "hero-roofing",
+      "name": "Hero Roofing",
+      "slug": "hero-roofing",
+      "description": "Hero Roofing is a family-owned roofing company offering full-service roofing for residential and commercial clients throughout the Atlanta metro area and Augusta, GA. Their team is GAF Master Elite certified, ranking among the top contractors nationwide. They also offer Roofs for Troops, a roofing rebate program for active and retired military members through GAF.",
+      "phone": "(833) 321-4376",
+      "email": null,
+      "website": "https://yourroofhero.com",
+      "address": "21 Tower Pl",
+      "city": "Newnan",
+      "state": "GA",
+      "zipCode": "30263",
+      "googleRating": 5.0,
+      "reviewCount": 100,
+      "services": [
+        "residential",
+        "commercial",
+        "repairs",
+        "inspections"
+      ],
+      "materials": [
+        "architectural-shingles",
+        "GAF"
+      ],
+      "certifications": [
+        "GAF-Master-Elite",
+        "Roofs-for-Troops"
+      ],
+      "familyOwned": true,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "atlanta-ga",
+      "sources": [
+        "https://yourroofhero.com/",
+        "https://www.bbb.org/us/ga/newnan/profile/roofing-contractors/hero-roofing-0443-28099463"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "mr-roofer-atlanta",
+      "name": "Mr. Roofer of Atlanta LLC",
+      "slug": "mr-roofer-atlanta",
+      "description": "Mr. Roofer of Atlanta was started by Brad Thomason, a lifetime Georgia resident with over 22 years in the roofing business. BBB Accredited since 2013 with an A+ rating and 148+ five-star reviews. As a GAF Certified Plus contractor (only 3% earn this status), CertainTeed certified, and Owens Corning preferred contractor, they bring over 32 years of combined experience to every project.",
+      "phone": "(281) 498-7663",
+      "email": null,
+      "website": "https://www.mrrooferatlanta.com",
+      "address": "2470 Windy Hill Road Southeast, #300T",
+      "city": "Marietta",
+      "state": "GA",
+      "zipCode": "30067",
+      "googleRating": 4.8,
+      "reviewCount": 148,
+      "services": [
+        "residential",
+        "commercial",
+        "repairs",
+        "siding",
+        "gutters",
+        "skylights",
+        "flat-roofing",
+        "metal"
+      ],
+      "materials": [
+        "architectural-shingles",
+        "GAF",
+        "CertainTeed",
+        "Owens-Corning",
+        "metal",
+        "flat-roofing"
+      ],
+      "certifications": [
+        "BBB-A+",
+        "GAF-Certified-Plus",
+        "CertainTeed-Certified",
+        "Owens-Corning-Preferred"
+      ],
+      "yearsInBusiness": 22,
+      "foundedYear": 2013,
+      "isFeatured": false,
+      "isVerified": true,
+      "listingTier": "basic",
+      "notOnGoogleFirstPage": true,
+      "metroArea": "atlanta-ga",
+      "sources": [
+        "https://www.mrrooferatlanta.com/",
+        "https://www.bbb.org/us/ga/marietta/profile/roofing-contractors/mr-roofer-of-atlanta-0443-27367824"
+      ],
+      "createdAt": "2026-01-11T00:00:00Z",
+      "updatedAt": "2026-01-11T00:00:00Z"
+    }
+  ]
+}
